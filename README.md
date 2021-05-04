@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ORGN-R99. I'm into C/C++ programming and currently a Director @ ether.
+- 👋 Hi, I’m @ORGN-R99. I'm into C/C++ programming and currently a Director @ Orbit Software.
 
 
 <!---
