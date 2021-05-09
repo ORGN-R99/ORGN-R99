@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ORGN-R99. (Known as CLVM @ v3rmillion.net | https://v3rmillion.net/member.php?action=profile&uid=2055306)
-- I'm into C/C++ programming and currently a Director @ Orbit Software.
+- I'm into C/C++ software engineering. 
+- Currently a Director @orbit-space.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ORGN-R99)](https://v3rmillion.net/member.php?action=profile&uid=2055306)
 
