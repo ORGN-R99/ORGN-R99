@@ -2,7 +2,7 @@
 - 🖥️ I'm into C/C++ software engineering. 
 - 📋 Currently a Director @Orbit Software.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ORGN-R99)](https://v3rmillion.net/member.php?action=profile&uid=2055306)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)(https://v3rmillion.net/member.php?action=profile&uid=2055306)
 
 <!---
 ORGN-R99/ORGN-R99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
