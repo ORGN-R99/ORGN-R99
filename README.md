@@ -2,10 +2,6 @@
 - 🖥️ I'm into C/C++ software engineering. 
 - 📋 Currently a Director @Orbit Software.
 
-<p align="center">
-  <img src="https://i.imgur.com/JNFgdwh.gif">
-</p>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ORGN-R99&show_icons=true&theme=radical&count_private=true&border_radius=18)
 
 <!---
